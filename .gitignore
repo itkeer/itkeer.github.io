@@ -1,0 +1,12 @@
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Custom ###
+logs
+.DS_Store
